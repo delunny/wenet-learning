@@ -19,7 +19,7 @@
 #include <memory>
 #include <string>
 #include <utility>
-#include "post_processor/wetext_processor.h"
+#include "processor/wetext_processor.h"
 #include "utils/utils.h"
 
 namespace wenet {
